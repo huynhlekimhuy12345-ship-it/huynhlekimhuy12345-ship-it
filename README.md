@@ -114,9 +114,11 @@ A large-scale **full-stack team project** — the biggest codebase I have worked
 </td>
 <td width="50%" valign="top">
 
-### 🏨 Hotel project
+### 🏨 [Hotel project](https://github.com/anhhao26/SmartHotelManagementSystem.git)
 
 A **hotel web project** built in collaboration with **Hào** — hands-on practice taking a real business domain from requirements to a working web app.
+
+`SmartHotelManagementSystem`
 
 `Web app` · `Collaboration`
 
@@ -125,7 +127,7 @@ A **hotel web project** built in collaboration with **Hào** — hands-on practi
 <tr>
 <td colspan="2" valign="top">
 
-### 🛠️ [Code app — in development](https://github.com/huynhlekimhuy12345-ship-it/codeapp)
+### 🛠️ [Code app — in development](https://github.com/huynhlekimhuy12345-ship-it/codeapp.git)
 
 My own **full-stack application**, currently in active development. This is where I experiment with new ideas before bringing them into team projects.
 
