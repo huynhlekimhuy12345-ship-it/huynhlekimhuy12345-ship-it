@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C6CFF&center=true&vCenter=true&width=640&lines=Full-stack+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+MongoDB;React+%E2%80%A2+Node.js+%E2%80%A2+JavaScript;Building+web+apps+end+to+end" alt="Full-stack Developer" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=huynhlekimhuy12345-ship-it&label=Profile%20views&color=7c6cff&style=flat" alt="Profile views" />
-
 <br/><br/>
 
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Developer coding — animated" width="480" />
@@ -26,6 +22,7 @@
 
 ### 🙋 Who I am
 
+- 🎓 Student at **FPT University**
 - 💻 **Full-stack Developer**, going by **HH** — I build both sides of a web app: interfaces people enjoy using, and APIs that hold up behind them
 - ☕ Backend with **Java & Spring Boot**, data in **MongoDB** and **SQL Server**
 - ⚛️ Frontend with **React & JavaScript**, APIs and tooling with **Node.js**
