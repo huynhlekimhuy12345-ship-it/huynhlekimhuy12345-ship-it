@@ -34,7 +34,6 @@
 ### 🔭 Currently
 
 - 🚧 Developing a **full-stack code app** of my own
-- 🧩 Designing **Nexus** — a collaboration platform for distributed dev teams, with my team
 - 🏨 Building a **hotel project** together with Hào
 - 🌱 Going deeper on system design, clean architecture, and testing
 
@@ -115,17 +114,6 @@ A large-scale **full-stack team project** — the biggest codebase I have worked
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Nexus
-
-A **collaboration platform for distributed dev teams** that my team is designing together — thread lifecycle and confirmation rules, with **Jira as the work reference** linked into the flow.
-
-`System design` · `Team project` · `Jira integration`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🏨 Hotel project
 
 A **hotel web project** built in collaboration with **Hào** — hands-on practice taking a real business domain from requirements to a working web app.
@@ -133,9 +121,11 @@ A **hotel web project** built in collaboration with **Hào** — hands-on practi
 `Web app` · `Collaboration`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-### 🛠️ Code app — in development
+### 🛠️ [Code app — in development](https://github.com/huynhlekimhuy12345-ship-it/codeapp)
 
 My own **full-stack application**, currently in active development. This is where I experiment with new ideas before bringing them into team projects.
 
