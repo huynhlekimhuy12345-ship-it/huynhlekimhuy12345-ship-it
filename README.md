@@ -56,7 +56,8 @@
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,js" alt="React, JavaScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" alt="React" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=20232A" alt="JavaScript" />
 
 - **React**
 - **JavaScript**
@@ -66,7 +67,9 @@
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs" alt="Java, Spring Boot, Node.js" />
+<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=20232A" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 
 - **Java**
 - **Spring Boot**
@@ -77,8 +80,8 @@
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 
 - **MongoDB**
 - **SQL Server**
@@ -88,7 +91,8 @@
 
 ### 🧰 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 - **Git**
 - **GitHub**
@@ -159,19 +163,6 @@ My own **full-stack application**, currently in active development. This is wher
 ---
 
 ## 🐍 Contribution snake
-
-<!--
-  Snake animation — activation required (one time):
-  This picture only renders after the GitHub Action has run at least once.
-  1. In your profile repo, create the file .github/workflows/snake.yml
-     (full content: see the setup note delivered with this README,
-     also saved in this artifact's .src/workflows/snake.yml).
-  2. Push it, then go to the repo's Actions tab → "Generate Snake Animation"
-     → Run workflow. The action (Platane/snk) generates the SVGs and
-     publishes them to a branch named "output".
-  3. From then on it re-runs automatically every 12 hours, so the snake
-     always eats your latest contribution graph. No JavaScript involved.
--->
 
 <div align="center">
 
