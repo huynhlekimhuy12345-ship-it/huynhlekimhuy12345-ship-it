@@ -104,7 +104,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [project-rbl-team-5](https://github.com/FudnSwp391/project-rbl-team-5.git)
+### 🌐 [TechCycle](https://github.com/FudnSwp391/project-rbl-team-5.git)
 
 A large-scale **full-stack team project** — the biggest codebase I have worked on so far, built end to end with my team, from database and APIs to the user interface.
 
@@ -126,7 +126,7 @@ A **hotel web project** built in collaboration with **Hào** — hands-on practi
 <tr>
 <td colspan="2" valign="top">
 
-### 🛠️ [Code app — in development](https://github.com/huynhlekimhuy12345-ship-it/codeapp.git)
+### 🛠️ [LeatherShop](https://github.com/huynhlekimhuy12345-ship-it/codeapp.git)
 
 My own **full-stack application**, currently in active development. This is where I experiment with new ideas before bringing them into team projects.
 
