@@ -59,8 +59,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" alt="React" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=20232A" alt="JavaScript" />
 
-- **React**
-- **JavaScript**
+
 
 </td>
 <td width="25%" valign="top">
